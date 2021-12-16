@@ -11,10 +11,13 @@ class Band:
 
 
 class Musician:
-    pass
+  pass
 
 class Guitarist:
-    pass
+    def __init__(self, name):
+        self.name = name
+    def __str__(self):
+        return f"My name is Joan Jett and I play guitar"
 
 class Bassist:
     pass
