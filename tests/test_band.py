@@ -35,7 +35,7 @@ def test_guitarist_repr():
     assert actual == expected
 
 
-@pytest.mark.skip("pending")
+# @pytest.mark.skip("pending")
 def test_drummer_str():
     sheila = Drummer("Sheila E.")
     actual = str(sheila)
@@ -43,7 +43,7 @@ def test_drummer_str():
     assert actual == expected
 
 
-@pytest.mark.skip("pending")
+# @pytest.mark.skip("pending")
 def test_drummer_repr():
     sheila = Drummer("Sheila E.")
     actual = repr(sheila)
@@ -51,7 +51,7 @@ def test_drummer_repr():
     assert actual == expected
 
 
-@pytest.mark.skip("pending")
+# @pytest.mark.skip("pending")
 def test_bassist_str():
     meshell = Bassist("Meshell Ndegeocello")
     actual = str(meshell)
@@ -59,7 +59,7 @@ def test_bassist_str():
     assert actual == expected
 
 
-@pytest.mark.skip("pending")
+# @pytest.mark.skip("pending")
 def test_bassist_repr():
     meshell = Bassist("Meshell Ndegeocello")
     actual = repr(meshell)
