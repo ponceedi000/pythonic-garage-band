@@ -3,7 +3,7 @@
 **Author**: Ediberto Ponce
 **Version**: 1.0.0
 
-- PR: [https://github.com/ponceedi000/pythonic-garage-band/compare/feature-one?expand=1](https://github.com/ponceedi000/pythonic-garage-band/compare/feature-one?expand=1)
+- PR: [https://github.com/ponceedi000/pythonic-garage-band/pull/1](https://github.com/ponceedi000/pythonic-garage-band/pull/1)
 
 ## Overview
 
